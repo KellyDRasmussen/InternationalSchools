@@ -7,6 +7,6 @@ Heat map of foreign children (300+) by kommune
 – The darker the shade, the more kids who probably need international options
 
 ### Clustered markers for international schools
-– One dot = one school
-– When zoomed out, the map neatly sums them for you
-– Hover to see each school’s name
+* One dot = one school
+* When zoomed out, the map neatly sums them for you
+* Hover to see each school’s name
