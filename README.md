@@ -1,4 +1,7 @@
 # 🌍 International Schools and Foreign Children in Denmark
+
+https://internationalschools-dk.streamlit.app/
+
 This interactive Streamlit app visualises where international basic schools are located in Denmark and how that lines up (or doesn’t) with the number of foreign-background children in each kommune.
 
 ## 🧠 What It Shows
