@@ -4,6 +4,15 @@ https://internationalschools-dk.streamlit.app/
 
 This interactive Streamlit app visualises where international basic schools are located in Denmark and how that lines up (or doesn’t) with the number of foreign-background children in each kommune.
 
+## Data Sources
+statbank.dk/folk1d
+
+(from 2025 Q2)
+
+Education Ministry list of international schools
+
+https://eng.uvm.dk/primary-and-lower-secondary-education/private-schools-in-denmark/international-basic-schools-in-denmark
+
 ## 🧠 What It Shows
 Heat map of foreign children (300+) by kommune
 – Color-coded using smart, tailored bins for real-world context
